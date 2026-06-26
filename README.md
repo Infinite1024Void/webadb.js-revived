@@ -20,3 +20,5 @@ From CDN:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/webadb/webadb.js@master/webadb.js"></script>
 ```
+
+*credit to Domenico Andreoli and the [webadb project](https://github.com/webadb) for the original code*
